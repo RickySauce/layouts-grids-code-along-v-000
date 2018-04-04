@@ -19,7 +19,11 @@ li {
   margin-left: 20px;
 }
 
+<<<<<<< HEAD
 p, address {
+=======
+p, address { 
+>>>>>>> 41450463917726d9931e01c0cd7ab2548bb7618d
   font-size: 1em; /* 16px, ?pt, 100%, 1em */
   line-height: 1.5em;
 }
@@ -347,9 +351,21 @@ section {
 /*////////// FOOTER //////////*/
 
 footer {
+<<<<<<< HEAD
   text-align: center;
   font-size: 0.75em;
   padding: 10px;
   background: #eee;
   border-top: 1px solid;
 }
+=======
+  text-align: center; 
+  font-size: 0.75em;
+  padding: 10px;
+  background: #eee;
+  border-top: 1px solid; 
+}
+
+
+
+>>>>>>> 41450463917726d9931e01c0cd7ab2548bb7618d
