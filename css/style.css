@@ -20,10 +20,14 @@ li {
 }
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 p, address {
 =======
 p, address { 
 >>>>>>> 41450463917726d9931e01c0cd7ab2548bb7618d
+=======
+p, address {
+>>>>>>> 61fbc0db38f30e89e091385e890562854a0734a8
   font-size: 1em; /* 16px, ?pt, 100%, 1em */
   line-height: 1.5em;
 }
@@ -352,12 +356,16 @@ section {
 
 footer {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 61fbc0db38f30e89e091385e890562854a0734a8
   text-align: center;
   font-size: 0.75em;
   padding: 10px;
   background: #eee;
   border-top: 1px solid;
 }
+<<<<<<< HEAD
 =======
   text-align: center; 
   font-size: 0.75em;
@@ -369,3 +377,5 @@ footer {
 
 
 >>>>>>> 41450463917726d9931e01c0cd7ab2548bb7618d
+=======
+>>>>>>> 61fbc0db38f30e89e091385e890562854a0734a8
